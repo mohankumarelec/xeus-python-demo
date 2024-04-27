@@ -5,3 +5,5 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - BeautifulSoup4
+  - langchain-core
