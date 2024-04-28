@@ -4,6 +4,6 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
-  - ipycanvas
-  - BeautifulSoup4
-  - langchain-core
+  - ipywidgets
+  - pip:
+    - langchain_core
