@@ -7,3 +7,4 @@ dependencies:
   - ipywidgets
   - pip:
     - langchain_core
+    - langchain_openai
